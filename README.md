@@ -32,7 +32,7 @@ Users can export the results in a report document using different formats (pdf, 
 
 ## References
 
-Loi et al (Accepted in Journal of Clinical Oncology)
+Loi S, Drubay D, Adams S, Pruneri G, Francis PA, Lacroix-Triki M, Joensuu H, Dieci MV, Badve S, Demaria S, Gray R, Colleoni MA, Lemonnier J, Sotiriou C, Piccart MJ, Kellokumpu-Lehtinen PL, Andre F, Denkert C, Salgado R, Michiels S. Tumor infiltrating lymphocytes and prognosis: a pooled individual patient analysis of 2148 early-stage triple negative breast cancers. (Accepted in Journal of Clinical Oncology)
 
 ## Disclaimer
 
